@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zero_Project</string>
+    <string name="search">검색</string>
+    <string name="teb">탭 메뉴</string>
+    <string name="menu01">항목 1</string>
+    <string name="menu02">항목 2</string>
+    <string name="menu03">항목 3</string>
+    <string name="details_menu01">세부 항목 1</string>
+    <string name="details_menu02">세부 항목 2</string>
+    <string name="details_menu03">세부 항목 3</string>
+    <string name="details_menu04">세부 항목 4</string>
+    <string name="details_menu05">세부 항목 5</string>
+    <string name="details_menu06">세부 항목 6</string>
+    <string name="details_menu07">세부 항목 7</string>
+    <string name="details_menu08">세부 항목 8</string>
+    <string name="details_menu09">세부 항목 9</string>
+    <string name="code_read">코드 읽기</string>
+    <string name="code_write">코드 쓰기</string>
+    <string name="code_test">Python Test</string>
+    <string name="code_example">Python Example</string>
+    <string name="advertising">이 곳은 광고를 위한 장소입니다.</string>
+</resources>

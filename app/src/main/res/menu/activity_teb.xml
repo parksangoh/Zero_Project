@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    // TabBar Icon
+    <item
+        android:title="@string/search"
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            // 메뉴 항목 1번
+            <item
+                android:title="@string/menu01"
+                app:showAsAction="never">
+                <menu>
+                    <item
+                        android:id="@+id/Details_menu01"
+                        android:title="@string/details_menu01"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu02"
+                        android:title="@string/details_menu02"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu03"
+                        android:title="@string/details_menu03"
+                        app:showAsAction="never" />
+                </menu>
+            </item>
+
+            // 메뉴 항목 2번
+            <item
+                android:title="@string/menu02"
+                app:showAsAction="never">
+                <menu>
+                    <item
+                        android:id="@+id/Details_menu04"
+                        android:title="@string/details_menu04"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu05"
+                        android:title="@string/details_menu05"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu06"
+                        android:title="@string/details_menu06"
+                        app:showAsAction="never" />
+                </menu>
+            </item>
+
+            // 메뉴 항목 3번
+            <item
+                android:title="@string/menu03"
+                app:showAsAction="never">
+                <menu>
+                    <item
+                        android:id="@+id/Details_menu07"
+                        android:title="@string/details_menu07"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu08"
+                        android:title="@string/details_menu08"
+                        app:showAsAction="never" />
+
+                    <item
+                        android:id="@+id/Details_menu09"
+                        android:title="@string/details_menu09"
+                        app:showAsAction="never" />
+                </menu>
+            </item>
+
+        </menu>
+    </item>
+</menu>
